@@ -9,7 +9,15 @@ Also, I can easily integrate into the team, being communicative and sociable, wi
 
 Automatic testing of the Gmail login function
 
-1. Web driver setting for Chrome
-2. Command to open the Gmail login page and maximize the page
-3. Enter the email address and click the next button
-4. Print a message in the console if the test has been completed ("Test Successful" or "Test Failure")
+
+1.Create a new project
+
+2.Configure Build Path / Add External JARs for Selenium
+
+3. Web driver setting for Chrome
+
+4. Command to open the Gmail login page and maximize the page
+
+5. Enter the email address and click the next button
+
+6. Print a message in the console if the test has been completed ("Test Successful" or "Test Failure")
